@@ -3,9 +3,16 @@
 <head>
   <title>Traffic and Weather Dashboard</title>
   <style>
+        body {
+      background-color: black;}
     #map {
       height: 750px; /* Set the desired height of the map container */
       width: 100%; /* Set the desired width of the map container */
+    }
+    #logo {
+      position: absolute;
+      z-index: 1;
+      top: 0px;
     }
   </style>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9Wgv3AUmPnwnD4F4M5ie9HVY-v-7kpvw&libraries=places"></script>
@@ -63,6 +70,7 @@
         />
       </a>
     </div>
+    <img src=".\the-best.jpg" id="logo">
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9Wgv3AUmPnwnD4F4M5ie9HVY-v-7kpvw&libraries=places&callback=initMap"></script>
 </body>
 </html>
