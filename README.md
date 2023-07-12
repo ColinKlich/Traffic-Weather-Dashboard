@@ -1,4 +1,5 @@
 # Traffic-Weather-Dashboard
 
 This dashboard displays the traffic and weather conditions surrounding the plant. It makes API calls to google maps and Tomorrow.io to get this information.
-![traffic-dashboard](https://github.com/ColinKlich/Traffic-Weather-Dashboard/assets/115095065/170d21bb-b891-451c-8eb3-9220da4a6630)
+
+![Screenshot 2023-07-12 143604](https://github.com/ColinKlich/Traffic-Weather-Dashboard/assets/115095065/5c52ec43-5d5e-4547-9b35-e7e1661e351b)
